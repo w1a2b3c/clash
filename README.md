@@ -52,6 +52,41 @@
 *（Clash 连接成功截图）*
 
 ---
+# Clash 客户端下载与教程
+
+## Clash Verge Rev
+
+| 软件版本 | 下载链接 |
+| --- | --- |
+| Clash.Verge_1.5.11_x64-setup.exe | [GitHub下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.5.11/Clash.Verge_1.5.11_x64-setup.exe) |
+| Clash.Verge_1.5.11_x64-setup.nsis.zip | [GitHub下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.5.11/Clash.Verge_1.5.11_x64-setup.nsis.zip) |
+| Clash.Verge_1.5.11_x64.dmg | [GitHub下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.5.11/Clash.Verge_1.5.11_x64.dmg) |
+| Clash.Verge_1.5.11_x64_portable.zip | [GitHub下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.5.11/Clash.Verge_1.5.11_x64_portable.zip) |
+| clash-verge_1.5.11_amd64.AppImage | [GitHub下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.5.11/clash-verge_1.5.11_amd64.AppImage) |
+| clash-verge_1.5.11_amd64.AppImage.tar.gz | [GitHub下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.5.11/clash-verge_1.5.11_amd64.AppImage.tar.gz) |
+| clash-verge_1.5.11_amd64.deb | [GitHub下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.5.11/clash-verge_1.5.11_amd64.deb) |
+| clash-verge_1.5.11_arm64.deb | [GitHub下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.5.11/clash-verge_1.5.11_arm64.deb) |
+| clash-verge_1.5.11_armhf.deb | [GitHub下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.5.11/clash-verge_1.5.11_armhf.deb) |
+| Clash.Verge_1.5.11_aarch64.dmg | [GitHub下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.5.11/Clash.Verge_1.5.11_aarch64.dmg) |
+| Clash.Verge_1.5.11_arm64-setup.exe | [GitHub下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.5.11/Clash.Verge_1.5.11_arm64-setup.exe) |
+| Clash.Verge_1.5.11_arm64-setup.nsis.zip | [GitHub下载](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.5.11/Clash.Verge_1.5.11_arm64-setup.nsis.zip) |
+
+## Clash for Windows
+
+| 软件版本 | 下载链接 |
+| --- | --- |
+| Clash.for.Windows.Setup.0.20.39.exe | [GitHub下载](https://github.com/netboy1024/clash_for_windows/releases/download/v0.20.39/Clash.for.Windows.Setup.0.20.39.exe) |
+| Clash.for.Windows.Setup.0.20.39.ia32.exe | [GitHub下载](https://github.com/netboy1024/clash_for_windows/releases/download/v0.20.39/Clash.for.Windows.Setup.0.20.39.ia32.exe) |
+| Clash.for.Windows.Setup.0.20.39.arm64.exe | [GitHub下载](https://github.com/netboy1024/clash_for_windows/releases/download/v0.20.39/Clash.for.Windows.Setup.0.20.39.arm64.exe) |
+| Clash.for.Windows-0.20.39-win.7z | [GitHub下载](https://github.com/netboy1024/clash_for_windows/releases/download/v0.20.39/Clash.for.Windows-0.20.39-win.7z) |
+| Clash.for.Windows-0.20.39-ia32-win.7z | [GitHub下载](https://github.com/netboy1024/clash_for_windows/releases/download/v0.20.39/Clash.for.Windows-0.20.39-ia32-win.7z) |
+| Clash.for.Windows-0.20.39-arm64-win.7z | [GitHub下载](https://github.com/netboy1024/clash_for_windows/releases/download/v0.20.39/Clash.for.Windows-0.20.39-arm64-win.7z) |
+| Clash.for.Windows-0.20.39.dmg | [GitHub下载](https://github.com/netboy1024/clash_for_windows/releases/download/v0.20.39/Clash.for.Windows-0.20.39.dmg) |
+| Clash.for.Windows-0.20.39-arm64.dmg | [GitHub下载](https://github.com/netboy1024/clash_for_windows/releases/download/v0.20.39/Clash.for.Windows-0.20.39-arm64.dmg) |
+| Clash.for.Windows-0.20.39-mac.7z | [GitHub下载](https://github.com/netboy1024/clash_for_windows/releases/download/v0.20.39/Clash.for.Windows-0.20.39-mac.7z) |
+| Clash.for.Windows-0.20.39-arm64-mac.7z | [GitHub下载](https://github.com/netboy1024/clash_for_windows/releases/download/v0.20.39/Clash.for.Windows-0.20.39-arm64-mac.7z) |
+| Clash.for.Windows-0.20.39-x64-linux.tar.gz | [GitHub下载](https://github.com/netboy1024/clash_for_windows/releases/download/v0.20.39/Clash.for.Windows-0.20.39-x64-linux.tar.gz) |
+| Clash.for.Windows-0.20.39-arm64-linux.tar.gz | [GitHub下载](https://github.com/netboy1024/clash_for_windows/releases/download/v0.20.39/Clash.for.Windows-0.20.39-arm64-linux.tar.gz) |
 
 ## 🌟 福利来袭
 
