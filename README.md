@@ -1,7 +1,6 @@
 # 🚀 网速自由新体验，Clash 配置教程大公开！
 
-![封面图](https://sux.lol/images/cover.jpg)  
-*（追云加速封面图）*
+
 
 网友们，还在为复杂的网络配置烦恼吗？今天，给大家带来一个超级实用的宝藏工具——**追云加速**，还附带超级详细的 Clash 配置教程🎉！
 
@@ -21,7 +20,8 @@
 
 前往 [Clash for Windows 官方下载页面](https://github.com/Fndroid/clash_for_windows_pkg/releases)，根据你的系统架构选择合适的版本下载并安装。
 
-![下载 Clash](https://fcp7.com/images/clash-download.png)  
+![下载 Clash](![image](https://github.com/user-attachments/assets/9331806f-f821-45fc-b671-04db42a108f8)
+)  
 *（Clash 下载页面截图）*
 
 ---
@@ -30,7 +30,8 @@
 
 使用邀请链接（👉[点击注册](https://sub.chasing.sbs:21600/#/register?code=F8yfeiXt)👈）注册追云加速，登录后在个人中心获取专属的订阅链接。
 
-![获取订阅链接](https://sux.lol/images/sub-link.jpg)  
+![获取订阅链接](![image](https://github.com/user-attachments/assets/8c57d427-8e12-4166-b815-aa440aba51a8)
+)  
 *（追云加速订阅链接页面截图）*
 
 ---
@@ -39,7 +40,8 @@
 
 打开 Clash for Windows，进入“Profiles”（配置）页面，将追云加速的订阅链接粘贴到“Download from URL”区域，点击“Download”按钮即可完成配置。
 
-![配置 Clash](https://fcp7.com/images/clash-config.png)  
+![配置 Clash](![image](https://github.com/user-attachments/assets/5d6f698e-a5c6-4ee8-a259-0ad65d695f53)
+)  
 *（Clash 配置页面截图）*
 
 ---
@@ -48,7 +50,8 @@
 
 一键连接后，Clash 会自动更新配置，享受畅快无阻的网络世界！
 
-![连接成功](https://fcp7.com/images/clash-connected.png)  
+![连接成功](![image](https://github.com/user-attachments/assets/9cb85656-214f-415b-ae8e-2626011c456d)
+)  
 *（Clash 连接成功截图）*
 
 ---
